@@ -31,7 +31,7 @@ gallery:
 
 ## Project Overview
 
-A 1st semester mechatronics project (SDU, Sep 2022 – Jan 2023), built by a 6-person team (5 Mechatronics students, 1 Mechanical student): Henrik, Benito, Zofia, Miro, Abdullah, and Tobiloba.
+A 1st semester mechatronics project (SDU, Sep 2022 – Jan 2023), built by a 6-person team (5 Mechatronics students, 1 Mechanical student): Henrik, Benito, Zosia, Miro, Abdullah, and Tobiloba.
 
 The car had to:
 - Drive a user-specified distance in a user-specified time
@@ -43,7 +43,7 @@ The car had to:
 
 ## Team & My Role
 
-This was a team project — the mechanical base and wheel adapter concepts were originally designed by teammate Zofia. My specific contributions were:
+This was a team project — the mechanical base and wheel adapter concepts were originally designed by teammate Zosia. My specific contributions were:
 
 - **Mechanical design:** Adapted the base plate size and added component mounting holes; modified the wheel adapter (enlarged the back section, added a hole to improve shaft grip)
 - **Enclosure design:** Designed the electronics box housing the mainboard, battery, and display, with cable routing
