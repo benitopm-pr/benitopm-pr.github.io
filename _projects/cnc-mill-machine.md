@@ -23,8 +23,13 @@ components:
   - name: "7809 voltage regulators"
     quantity: 3
     description: "Wired in parallel to supply 9V/6A to the motor rail"
----
 
+schematics:
+  - file: "/assets/schematics/cnc-mill-machine/Sprog_Schematic.pdf"
+    description: "Full electrical schematic: 5x LN298N motor drivers, dual Arduino Nano, drill control circuit (BD241 transistor, ILD74 optocoupler, flyback diode), limit switches, and SD card reader"
+  - file: "/assets/schematics/cnc-mill-machine/Button_control.png"
+    description: "D-pad controller circuit: 7-button resistor-ladder configuration with status LEDs"
+    
 ## Project Overview
 
 A 2nd semester mechatronics team project (SDU, completed June 2023), built by a 5-person team: Benito Padilla, Christian Berg Christensen, Daniel Borregaard, Dimitris Kralidis, and Marius Tilea. The goal was to design and build a working CNC milling machine capable of G-code interpretation, manual control, and safe autonomous operation.
